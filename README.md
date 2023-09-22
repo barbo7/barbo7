@@ -1,7 +1,3 @@
-## Hi, I am Bora Sapancılar! 
-</br>
-</br>
-
 ## Contact 
 
 <div> 
