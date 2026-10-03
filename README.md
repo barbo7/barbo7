@@ -1,32 +1,24 @@
 # Hi, I'm Bora 👋
 
-.NET developer. These days I mostly write **Blazor** and **WPF** applications, plus **web services** and **Windows services**, on top of **C#, Entity Framework and SQL Server**.
+.NET developer. I mostly write **Blazor** and **WPF**, plus **web services** and **Windows services**, on top of C#, Entity Framework and SQL Server.
 
-## What I do now
+## What I build
 
-I build and maintain software for construction and site management on a large EPC project, and I enjoy improving the systems I work on with newer technologies. Recent work includes:
+Software for construction and site management on a large EPC project, for example:
 
-- Multi-step approval workflows (ASP.NET WebForms, C#, Entity Framework)
-- Stage-based progress reporting pages with PDF export
-- Data integration between Excel sources and SQL Server (materials logistics and quality control data)
-- SQL Server stored procedures, upserts and transaction debugging
+- Multi-project document approval workflow
+- Stage-based progress report with PDF export
+- Excel to SQL Server data integration for materials logistics and quality control
 
-I also use AI assistants such as Claude as a pair-programming partner while building and refactoring these systems.
-
-## Tech
-
-- **Languages:** C#, SQL, JavaScript
-- **Web:** Blazor, ASP.NET WebForms, Bootstrap
-- **Desktop and services:** WPF, Windows services, web services
-- **Data:** SQL Server, Entity Framework, SQLite
+I like improving existing systems with newer technologies.
 
 ## Older projects
 
-Early learning projects, kept public for reference:
+Early learning projects:
 
-- [**AssetManagmentSite**](https://github.com/barbo7/AssetManagmentSite) (2023–2024) – asset, inventory, maintenance and request management app (ASP.NET WebForms, Entity Framework, SQL Server)
-- [**Kelimecim**](https://github.com/barbo7/Kelimecim) (2023–2024, no longer maintained) – vocabulary learning mobile app (.NET MAUI, SQLite)
-- [**Patikadev-Sql-Samples**](https://github.com/barbo7/Patikadev-Sql-Samples) (2022) – SQL exercises from the patika.dev course
+- [**AssetManagmentSite**](https://github.com/barbo7/AssetManagmentSite) (2023–2024) – asset and inventory management, ASP.NET WebForms
+- [**Kelimecim**](https://github.com/barbo7/Kelimecim) (2023–2024) – vocabulary mobile app, .NET MAUI
+- [**Patikadev-Sql-Samples**](https://github.com/barbo7/Patikadev-Sql-Samples) (2022) – SQL exercises
 
 ## Contact
 
